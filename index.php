@@ -1,30 +1,7 @@
 <?php
 
-$ch = curl_init();
-
-$adj_url  = 'https://wordsapiv1.p.mashape.com/words/?random=true&letterPattern=^d\S{2,}$&partOfSpeech=adjective';
-$noun_url = 'https://wordsapiv1.p.mashape.com/words/?random=true&letterPattern=^d\S{2,}$&partOfSpeech=noun';
-
-$options = array(
-	CURLOPT_RETURNTRANSFER => true,
-	CURLOPT_HEADER => false,
-	CURLOPT_HTTPHEADER => array(
-		'X-Mashape-Key: hhlu62X7o7mshEDyM5KMzgykXIwEp1QqnaAjsnBfIuovsADuoY',
-		'Accept: application/json'
-	)
-);
-
-curl_setopt_array($ch, $options);
-
-curl_setopt($ch, CURLOPT_URL, $adj_url);
-
-$adjective = json_decode(curl_exec($ch));
-
-curl_setopt($ch, CURLOPT_URL, $noun_url);
-
-$noun = json_decode(curl_exec($ch));
-
-curl_close($ch);
+$adjectives = file('adjectives.txt');
+$nouns = file('nouns.txt');
 
 ?>
 
@@ -41,8 +18,8 @@ html, body {
 
 body {
 	color: #fff;
+    font-family: sans-serif;
 	margin: 0;
-	text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
@@ -50,9 +27,9 @@ h1 {
 }
 	
 #wrap {
-    font-family: sans-serif;
 	position: relative;
 	text-align: center;
+	text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     top: 50%;
     transform: translateY(-50%);
 }
@@ -65,10 +42,28 @@ h1 {
     text-transform: uppercase;
 }
 
+button {
+	background: #fff;
+	border: none;
+	border-radius: 5px;
+	color: rgba(0, 0, 0, 0.5);
+	cursor: pointer;
+	display: block;
+    font-size: 1.4em;
+	font-weight: bold;
+	margin: 1rem auto;
+	outline: none;
+	padding: 1rem;
+	text-transform: uppercase;
+	-webkit-appearance: none;
+}
+
 #copyright {
+	bottom: 10px;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 12px;
 	position: absolute;
-	bottom: 0;
-	right: 0;
+	right: 10px;
 }
 
 </style>
@@ -80,9 +75,9 @@ h1 {
 
 	<h1>Welcome back to Team</h1>
 
-	<div id="words"><?= $adjective->word . ' ' . $noun->word ?></div>
+	<div id="words"><?// $adjective->word . ' ' . $noun->word ?></div>
 
-	<!-- <button>Generate</button> -->
+	<button>Generate</button>
 
 </div>
 
@@ -96,21 +91,26 @@ h1 {
 
 $(function() {
 
-	// var url = 'https://wordsapiv1.p.mashape.com/words/?random=true&letterPattern=^d\S{3,}$&partOfSpeech=adjective';
-	// var data = {'X-Mashape-Key': 'hhlu62X7o7mshEDyM5KMzgykXIwEp1QqnaAjsnBfIuovsADuoY', 'Accept': 'application/json'};
+	var adjectives  = <?= json_encode($adjectives) ?>;
+	var nouns		= <?= json_encode($nouns) ?>;
 
-	// $('button').click(function() {
+	genWords();
 
-	// 	$.ajax(url, {
-	// 		beforeSend: function(xhr) {
-	// 			xhr.setRequestHeader('X-Mashape-Key', 'hhlu62X7o7mshEDyM5KMzgykXIwEp1QqnaAjsnBfIuovsADuoY');
-	// 		},
-	// 		success: function(data) {
-	// 			console.log(data);
-	// 		}
-	// 	});
+	function genWords() {
 
-	// });
+		var adjective = adjectives[Math.floor(Math.random()*adjectives.length)];
+
+		var noun = nouns[Math.floor(Math.random()*nouns.length)];
+
+		$('#words').text(adjective + ' ' + noun);
+
+	}
+
+	$('button').click(function() {
+
+		genWords();
+
+	});
 
 	var r, g, b;
 
@@ -127,6 +127,7 @@ $(function() {
 		var color = 'rgb('+r+','+g+','+b+')';
 
 		$('body').css('background-color', color);
+		$('button').css('color', color);
 
 		if (callback && typeof(callback) === 'function') {
 			callback();
@@ -137,6 +138,7 @@ $(function() {
 	randomColor(function() {
 		setTimeout(function() {
 			$('body').css('transition', 'background-color 2s linear');
+			$('button').css('transition', 'color 2s linear');
 		}, 2000);
 	});
 
