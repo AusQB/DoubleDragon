@@ -1,0 +1,973 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_adjectives"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ad",
+				"adjective"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"adj",
+				"adj_url"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"WhitneyB",
+				"WhitneyBlack"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"xml",
+				"xml_parser_free"
+			],
+			[
+				"itunes",
+				"itunes_feed"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"set",
+				"setTimeout(function, milliseconds);"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"mana",
+				"manager_recipients"
+			],
+			[
+				"clients_",
+				"client_recipients"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tee",
+				"text-indent"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text-in",
+				"text-indent"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"getT",
+				"getRandomInt"
+			],
+			[
+				"draw",
+				"drawGame"
+			],
+			[
+				"update",
+				"updateGame"
+			],
+			[
+				"ac",
+				"activeThumb"
+			],
+			[
+				"thumb",
+				"thumbnails"
+			],
+			[
+				"p",
+				"portfolio"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fons-",
+				"font-size"
+			],
+			[
+				"getR",
+				"getRandomFireColor"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"forgot",
+				"forgot_password_form"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"sho",
+				"showreel"
+			],
+			[
+				"resi",
+				"resizeAccordion"
+			],
+			[
+				"acc",
+				"accordion-content"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"Set",
+				"setTimeout"
+			],
+			[
+				"shor",
+				"showreel-video"
+			],
+			[
+				"show",
+				"showreel"
+			],
+			[
+				"vido",
+				"videoRatio"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"nav",
+				"navPos"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"icon",
+				"icon-circle-blank"
+			],
+			[
+				"ic",
+				"icon-circle-blank"
+			],
+			[
+				"na",
+				"nav-aid"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"is",
+				"isScrolling"
+			],
+			[
+				"ca",
+				"canGoDown"
+			],
+			[
+				"can",
+				"canGoUp"
+			],
+			[
+				"cango",
+				"canGoUp"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/public_html/index.php",
+			"settings":
+			{
+				"buffer_size": 2555,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Rob/Documents/Web/Websites/HomeStart/Assets/custom-f6/index.html",
+			"settings":
+			{
+				"buffer_size": 7094,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/public_html/update.php",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 280.0,
+		"history":
+		[
+			"node -v",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Rob/OneDrive/Websites/DoubleDragon",
+		"/D/Rob/OneDrive/Websites/DoubleDragon/www",
+		"/D/Rob/OneDrive/Websites/DoubleDragon/www/public_html"
+	],
+	"file_history":
+	[
+		"/C/Users/Rob/AppData/Local/Temp/fz3temp-1/grid_system.css",
+		"/C/Users/Rob/AppData/Local/Temp/fz3temp-1/fonts.css",
+		"/C/Users/Rob/AppData/Local/Temp/fz3temp-1/app.css",
+		"/D/Rob/Documents/Web/Websites/DoubleDragon/www/public_html/adjectives.txt",
+		"/D/Rob/Documents/Web/Websites/DoubleDragon/www/public_html/nouns.txt",
+		"/D/Rob/Documents/Web/Websites/DoubleDragon/www/sftp-config.json",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/.htaccess",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/home-designs.group/.layout.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/home-designs.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/designs.group/.layout.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/assets/css/main.css",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/designs.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/assets/js/main.js",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/_includes.group/.html-layout.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/about-us.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/packages.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/finance.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/finance.group/loan-calculator.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/news.group/promotion.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/news.group/promotions.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/finance.group/first-home-owners-grant.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/about-us.group/testimonials.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/about-us.group/.layout.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/news.group/homestart-reviews.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/home.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/.header.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/news.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/sitemap.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/.htaccess",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/home.group/.layout.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/assets/js/vendor/jquery.colorbox-min.js",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/includes.group/.header.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/includes.group/.footer.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/template/default_site/assets/css/fonts.css",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/home.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/favicon.ico",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/system/expressionengine/config/database.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/system/expressionengine/config/config.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/index.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/public_html/admin.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/icsystem/expressionengine/config/config.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/icsystem/expressionengine/config/database.php",
+		"/D/Rob/Documents/Web/Websites/HomeStart/dev/sftp-config.json",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/css/main.css",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/js/main.js",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/designs.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/packages.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/menu-panel.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/.footer.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/house-and-land-packages.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/404.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/robots.txt",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/sitemap.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/contact-us.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/finance.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.handover_survey.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/packages.group/view-more.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/designs.group/view-more.html",
+		"/D/Games/Steam/steamapps/common/Kerbal Space Program/GameData/Squad/Parts/Utility/launchClamp1/launchClamp1.cfg",
+		"/C/Users/Rob/AppData/Roaming/Ubisoft/Anno1404/Config/Engine.ini",
+		"/C/Users/Rob/AppData/Roaming/Ubisoft/Anno1404Addon/Config/Engine.ini",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero/homestart_rent_edm.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero/homestart_rent_edm_uninked.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero/homestart_rent_edm2.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero.html/homestart_rent_edm_uninked.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero.html/homestart_rent_edm.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero.html/homestart_rent_edm_inked.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/EDM/sidebar-hero.html/sidebar-hero.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.entries.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/css/survey.css",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/index.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.prestart_survey.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/news.group/promotions.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.entry_form.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.handover_table.html",
+		"/D/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.prestart_table.html",
+		"/D/Games/World of Warcraft/interface/addons/Tukui/Medias/Medias.lua",
+		"/D/Games/World of Warcraft/WTF/Account/53398114#2/bindings-cache.wtf",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/js/survey.js",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/onlineclientsurvey.group/.handover_survey.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/.header.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/css/landing.css",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/landing-page.group/_backup.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/landing-page.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/css/main.css",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/mockups.group/landingpage.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/banksia-grove.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/banksia.group/index.html",
+		"/C/Users/Rob/qBittorrent/Thermae.Romae.II.2014.BRRip FILMEUY.COM.srt",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/news.group/promotions.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/nodramas.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/news.group/homestart-reviews.html",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/assets/img/new_family.png",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/home.group/index.html",
+		"/C/Games/Steam/steamapps/common/Kerbal Space Program/GameData/Bobe/SoftDock.cfg",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/public_html/template/default_site/includes.group/menu-panel.html",
+		"/C/Games/World of Warcraft/Interface/AddOns/Tukui/Medias/Medias.lua",
+		"/C/Users/Rob/Documents/Web/Websites/HomeStart/www/sftp-config.json",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/contact.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/assets/js/main.js",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/_includes.group/.html-layout.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/galleries.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/home.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/assets/css/main.css",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/pages.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/pages.group/.layout.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/about.group/index.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/galleries.group/.photoswipe.html",
+		"/C/Users/Rob/Documents/Web/Websites/Element Images/www/public_html/template/default_site/galleries.group/.layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Resources/Foundation/foundation-5.5.0.custom/index.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/galleries.group/index.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/contact.group/.layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/contact.group/index.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/assets/css/main.css",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/_includes.group/.html-layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/about.group/index.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/about.group/.layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/galleries.group/.layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/galleries.group/.photoswipe.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/assets/js/main.js",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/assets/js/foundation.min.js",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/home.group/.layout.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/template/default_site/home.group/index.html",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/sftp-config.json",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/.htaccess",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/eisystem/expressionengine/config/config.php",
+		"/C/Users/Rob/Documents/Web Designs/Websites/Element Images/www/public_html/admin.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"active",
+			"main-menu",
+			"home2013",
+			"rem",
+			"btn-green",
+			"/template/default_site/assets",
+			"li>",
+			"li",
+			"http://homestart.net.au",
+			"logo",
+			"map-content",
+			"#home-list",
+			"home-list",
+			"designs",
+			"#home-list",
+			"http://homestart.net.au/nodramas",
+			"580px",
+			"/template/default_site/assets",
+			"path/to",
+			"about",
+			"</p1>",
+			"</p2>",
+			"</p1>",
+			"<p1>",
+			"^\\n",
+			"bg_tile.jpg",
+			"get_filtered_projects",
+			"get_clients_by_name",
+			"font",
+			"update",
+			"solar",
+			"broken",
+			"solarpanel",
+			"broken",
+			"solar",
+			"rover ii rtl probe",
+			"rover ii rtl",
+			"Rover II RTL Probe",
+			"rover",
+			"vessel",
+			"fa",
+			"}\n",
+			"logged_out",
+			"redirect",
+			"$this->template->load('template'",
+			"required",
+			"_body",
+			"view",
+			"</td>",
+			"<td style=\"color: red;\">",
+			"<td>",
+			"</td>",
+			"<td>",
+			"</tr>",
+			"<td style=\"color: red;\">",
+			"<td>",
+			"<tr>",
+			"<td colspan=\"3\">",
+			"<td colspan=\"2\">",
+			"</td>",
+			"<td style=\"color: red;\">",
+			"<td>",
+			"</tr>",
+			"<tr>",
+			"<td style=\"color: red;\">",
+			"</td>",
+			"<td>",
+			"<tr>",
+			"</td>",
+			"<td style=\"color: red;\">",
+			"<td>",
+			"</tr>",
+			"<tr>",
+			"</td>",
+			"<td style=\"color: red;\">",
+			"<td>",
+			"</tr>",
+			"<tr>",
+			"<td colspan=\"2\">",
+			"<td style=\"color: red;\">",
+			"</td>",
+			"<td>",
+			"</tr>",
+			"<tr>",
+			"directory",
+			"agents",
+			"rewrite",
+			"rewriteengine",
+			"url('",
+			"h3",
+			"<h4>",
+			"<h3>",
+			"div",
+			"projects",
+			"masonry",
+			"showreel",
+			"video",
+			".box",
+			"masonry",
+			"hero",
+			"translate3d",
+			"active.offset().top",
+			"h1",
+			" style=\"display: none;\"",
+			"faq_answer",
+			"faq_question",
+			"</b>",
+			"<b>",
+			"\"#result\"",
+			"question_",
+			"<div class=\"row\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<username>",
+			"button",
+			"{assets}",
+			"div>",
+			"div",
+			"",
+			".home-list",
+			"http://homestart.net.au/nodramas?utm_source=rent.com&utm_medium=EDM&utm_campaign=NodepositNodramas",
+			"600px",
+			"{assets}",
+			"</p>",
+			"<p>",
+			"",
+			"bg_tile2.jpg",
+			"$this->template->load('templates/main'",
+			"$(body)",
+			"",
+			"</div>",
+			"",
+			"<div class=\"form-group clearfix\">",
+			"",
+			"</div>",
+			"<div class=\"form-group clearfix\">",
+			"",
+			"<div class=\"form-group clearfix\">",
+			"",
+			"</div>",
+			"<div class=\"form-group clearfix\">",
+			"",
+			"</div>",
+			"<div class=\"form-group clearfix\">",
+			"",
+			"</div>",
+			"<div class=\"form-group clearfix\">",
+			"url('../fonts/",
+			"h2",
+			"<h4 class=\"title\">",
+			"<h3 class=\"name\">",
+			"transform",
+			"dest",
+			"h3",
+			"",
+			"faq-answer",
+			"faq-question",
+			"</span>",
+			"<span>",
+			"'#result'",
+			"q",
+			"<div class=\"row clearfix\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/public_html/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Rob/Documents/Web/Websites/HomeStart/Assets/custom-f6/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								219
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/public_html/update.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "doubledragon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
